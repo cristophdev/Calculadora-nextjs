@@ -1,0 +1,8 @@
+#clear {
+    grid-column: span 4;
+}
+
+#igual, #suma, #resta, #multiplicacion, #division {
+    background-color: #8888;
+    
+}
