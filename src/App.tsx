@@ -13,7 +13,7 @@ const App = (): JSX.Element => {
   const handleEqual = () => {
     try {
       setValue(eval(value));
-    } catch (erro) {
+    } catch (error) {
       setValue("Syntax Error")
     }
   }
